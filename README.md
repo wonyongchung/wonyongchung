@@ -30,6 +30,9 @@
 - GNN기반의 감염병 및 금융 예측  
   - 시계열 데이터에 대한 예측을 할 수 있는 GNN 모델 개발  
   - `python` `time series` `deep learning` `GNN`  
+- GNN기반의 주가 예측 웹서비스 개발
+  - 주가 예측해주는 웹서비스 개발
+  - `python` `django` `mariadb` `pytorch` `AWS`
 
 ### Courses  
 #### 교내  
