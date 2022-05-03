@@ -10,7 +10,7 @@
 - 고려대학교 이과대학 지구환경과학과 학사 (15.03 ~ 21.02)  
 - 대구과학영재학교 졸업 (12.03 ~ 15.02)
   
-### Majoor Research  
+### Major Research  
 - GNN 기반의 다변량 시계열 예측  
 - GNN 에서의 negative sampling  
   
