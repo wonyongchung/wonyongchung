@@ -37,9 +37,10 @@
   - `python` `time series` `deep learning` `GNN`  
 - GNN기반의 주가 예측 웹서비스 개발
   - 주가 예측해주는 웹서비스 개발
-  - `python` `django` `mariadb` `pytorch` `AWS`
+  - `python` `django` `mariadb` `pytorch` `AWS` `html` `css`
   
 ### Awards  
+- 2022 한국컴퓨터종합학술대회 우수논문상  
 - 2021 한국컴퓨터종합학술대회 우수논문발표상  
 - 2017 롯데아이디어공모전 동상  
   
