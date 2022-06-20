@@ -41,7 +41,11 @@
   
 ### Awards  
 - 2021 한국컴퓨터종합학술대회 우수논문발표상  
-- 2017 롯데아이디어공모전 동상
+- 2017 롯데아이디어공모전 동상  
+  
+### Certificate  
+- AWS Cloud Practitioner  
+
   
 ### Courses  
 #### 교내  
