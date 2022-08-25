@@ -9,6 +9,9 @@
 - 고려대학교 정보대학 인공지능융합전공 학사 (19.09 ~ 21.02)  
 - 고려대학교 이과대학 지구환경과학과 학사 (15.03 ~ 21.02)  
 - 대구과학영재학교 졸업 (12.03 ~ 15.02)
+
+### Employment History
+- EA코리아 ML엔지니어 인턴 (22.07 ~ 22.08)
   
 ### Major Research  
 - GNN 기반의 다변량 시계열 예측  
@@ -69,13 +72,13 @@
   
 ### Skills  
 - 프로그래밍 언어  
-  - Python, C  
+  - Python, C, SQL  
 - 데이터분석 툴  
-  - Pandas, Sklearn, Seaborn, Numpy
+  - Spark, Pandas, Sklearn, Seaborn, Numpy
 - 딥러닝 툴  
   - Pytorch, Keras, Pytorch Geometric  
 - 기타  
-  - AWS, ArcGIS
+  - AWS, S3, ArcGIS
   
 ### Military Service  
 - 대한민국 육군 3군사령부 병장 만기전역 (17.05 ~ 19.02)  
