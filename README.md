@@ -1,16 +1,17 @@
 # Resume  
 ## Introduction  
 ### 정원용 (Won Yong Chung)  
-- Email : justin715@korea.ac.kr  
+- Email : justin715@naver.com
 - GitHub : https://github.com/wonyongchung  
   
 ### Education  
-- 고려대학교 공과대학 전기전자공학부 컴퓨터공학전공 석사과정 (21.03 ~ )  
+- 고려대학교 공과대학 전기전자공학부 컴퓨터공학전공 석사과정 (21.03 ~ 23.02)  
 - 고려대학교 정보대학 인공지능융합전공 학사 (19.09 ~ 21.02)  
 - 고려대학교 이과대학 지구환경과학과 학사 (15.03 ~ 21.02)  
 - 대구과학영재학교 졸업 (12.03 ~ 15.02)
 
 ### Employment History
+- 삼성리서치 재직 중 (23.03 ~ )
 - EA코리아 ML엔지니어 인턴 (22.07 ~ 22.08)
   
 ### Major Research  
@@ -72,7 +73,7 @@
   
 ### Skills  
 - 프로그래밍 언어  
-  - Python, C, SQL  
+  - Python, C++, SQL  
 - 데이터분석 툴  
   - Spark, Pandas, Sklearn, Seaborn, Numpy
 - 딥러닝 툴  
